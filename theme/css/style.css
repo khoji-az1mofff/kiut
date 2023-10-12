@@ -2833,32 +2833,32 @@ textarea.form-control-lg {
 
 .btn-success {
   color: #fff;
-  background-color: #198754;
-  border-color: #198754;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #157347;
-  border-color: #146c43;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
 }
 .btn-check:focus + .btn-success, .btn-success:focus {
   color: #fff;
-  background-color: #157347;
-  border-color: #146c43;
-  box-shadow: 0 0 0 0.25rem rgba(60, 153, 110, 0.5);
+  background-color: #0a58ca;
+  border-color: #0a58ca;
+  box-shadow: 0 0 0 0.25rem #0a58ca;
 }
 .btn-check:checked + .btn-success, .btn-check:active + .btn-success, .btn-success:active, .btn-success.active, .show > .btn-success.dropdown-toggle {
   color: #fff;
-  background-color: #146c43;
-  border-color: #13653f;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
 }
 .btn-check:checked + .btn-success:focus, .btn-check:active + .btn-success:focus, .btn-success:active:focus, .btn-success.active:focus, .show > .btn-success.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.25rem rgba(60, 153, 110, 0.5);
+  box-shadow: 0 0 0 0.25rem 0a58ca;
 }
 .btn-success:disabled, .btn-success.disabled {
   color: #fff;
-  background-color: #198754;
-  border-color: #198754;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
 }
 
 .btn-info {
@@ -3067,22 +3067,22 @@ textarea.form-control-lg {
 }
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #198754;
-  border-color: #198754;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
 }
 .btn-check:focus + .btn-outline-success, .btn-outline-success:focus {
-  box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.5);
+  box-shadow: 0 0 0 0.25rem #0a58ca;
 }
 .btn-check:checked + .btn-outline-success, .btn-check:active + .btn-outline-success, .btn-outline-success:active, .btn-outline-success.active, .btn-outline-success.dropdown-toggle.show {
   color: #fff;
-  background-color: #198754;
-  border-color: #198754;
+  background-color: #0a58ca;
+  border-color: #0a58ca;
 }
 .btn-check:checked + .btn-outline-success:focus, .btn-check:active + .btn-outline-success:focus, .btn-outline-success:active:focus, .btn-outline-success.active:focus, .btn-outline-success.dropdown-toggle.show:focus {
-  box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.5);
+  box-shadow: 0 0 0 0.25rem #0a58ca;
 }
 .btn-outline-success:disabled, .btn-outline-success.disabled {
-  color: #198754;
+  color: #0a58ca;
   background-color: transparent;
 }
 
@@ -4688,10 +4688,10 @@ textarea.form-control-lg {
 }
 
 .link-success {
-  color: #198754;
+  color: #0a58ca;
 }
 .link-success:hover, .link-success:focus {
-  color: #146c43;
+  color: #0a58ca;
 }
 
 .link-info {
@@ -5112,7 +5112,7 @@ textarea.form-control-lg {
 }
 
 .border-success {
-  border-color: #198754 !important;
+  border-color: #0a58ca !important;
 }
 
 .border-info {
@@ -5941,7 +5941,7 @@ textarea.form-control-lg {
 }
 
 .text-success {
-  color: #198754 !important;
+  color: #0a58ca !important;
 }
 
 .text-info {
@@ -5997,7 +5997,7 @@ textarea.form-control-lg {
 }
 
 .bg-success {
-  background-color: #198754 !important;
+  background-color: #0a58ca !important;
 }
 
 .bg-info {
@@ -8961,11 +8961,11 @@ a.text-black:hover {
   font-weight: 800;
 }
 .content a {
-  border-bottom: 1px dotted #51B56D;
+  border-bottom: 1px dotted #0a58ca;
 }
 .content a:hover {
-  color: #51B56D;
-  border-bottom: 1px solid #51B56D;
+  color: #fff;
+  border-bottom: 1px solid #0a58ca;
 }
 .content ol,
 .content ul {
@@ -9074,7 +9074,7 @@ a.text-black:hover {
   background-color: #6ab0de;
 }
 .content .notices.tip::before {
-  background-color: #78C578;
+  background-color: #0a58ca;
 }
 .content .notices.info::before {
   background-color: #F0B37E;
@@ -9129,7 +9129,7 @@ a.text-black:hover {
   background-color: transparent;
   height: unset;
   width: unset;
-  color: #51B56D;
+  color: #0a58ca;
   top: 0;
   left: 0;
 }
@@ -9157,7 +9157,7 @@ a.text-black:hover {
   color: #fff;
 }
 .code-tabs .nav-item.active .nav-link {
-  background: #51B56D;
+  background: #0a58ca;
 }
 .code-tabs .nav-item .nav-link {
   text-decoration: none;
@@ -9165,7 +9165,7 @@ a.text-black:hover {
   border: 0;
   border-radius: 8px;
   text-transform: capitalize;
-  color: #51B56D;
+  color: #0a58ca;
 }
 .code-tabs .tab-content {
   padding: 20px 15px;
@@ -9204,7 +9204,6 @@ a.text-black:hover {
   font-size: 15px;
 }
 .card-social a:hover {
-  /* color: #51B56D; */
   color: blue;
 }
 
