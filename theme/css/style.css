@@ -2820,7 +2820,7 @@ textarea.form-control-lg {
 .btn-check:checked + .btn-secondary, .btn-check:active + .btn-secondary, .btn-secondary:active, .btn-secondary.active, .show > .btn-secondary.dropdown-toggle {
   color: #fff;
   background-color: #565e64;
-  border-color: #51585e;
+  border-color: #0d6efd;
 }
 .btn-check:checked + .btn-secondary:focus, .btn-check:active + .btn-secondary:focus, .btn-secondary:active:focus, .btn-secondary.active:focus, .show > .btn-secondary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.25rem rgba(130, 138, 145, 0.5);
@@ -9240,7 +9240,7 @@ blockquote::before,
   position: absolute;
   left: 0;
   top: 2px;
-  color: #51B56D;
+  color: #0d6efd;
 }
 
 blockquote::before {
@@ -9304,12 +9304,12 @@ blockquote::before {
 }
 .navigation .dropdown-item.active,
 .navigation .dropdown-item:active {
-  color: #51B56D;
+  color: #0d6efd;
   background-color: transparent;
 }
 .navigation .dropdown-item:focus,
 .navigation .dropdown-item:hover {
-  color: #51B56D;
+  color: #0d6efd;
   background-color: transparent;
 }
 .navigation .nav-item {
@@ -9364,7 +9364,7 @@ blockquote::before {
   width: calc(100% - 30px);
   height: 2px;
   z-index: -1;
-  background-color: #51B56D;
+  background-color: #0d6efd;
   transform: scaleX(0);
   transition: 0.25s;
 }
@@ -9375,7 +9375,7 @@ blockquote::before {
 }
 .navigation .nav-item:hover .nav-link {
   text-decoration: none;
-  color: #51B56D !important;
+  color: #0d6efd !important;
 }
 .navigation .nav-item:hover .nav-link::before {
   transform: scaleX(1);
@@ -9384,10 +9384,10 @@ blockquote::before {
   color: #040404;
 }
 .navigation .navbar-light .navbar-nav .nav-link:hover {
-  color: #51B56D;
+  color: #0d6efd;
 }
 .navigation .navbar-light .navbar-nav .active .nav-link {
-  color: #51B56D;
+  color: #0d6efd;
 }
 .navigation .navbar-light .navbar-nav .active .nav-link::before {
   transform: scaleX(1);
@@ -9442,7 +9442,7 @@ blockquote::before {
   width: 70px;
   line-height: 70px;
   border-radius: 8px;
-  color: #51B56D;
+  color: #0d6efd;
   background-color: rgba(81, 181, 109, 0.2);
 }
 .service-item .service-title {
@@ -9523,7 +9523,7 @@ blockquote::before {
   background-color: rgba(145, 122, 235, 0.1);
 }
 .difference-of-us-item:nth-child(even) .icon {
-  color: #51B56D;
+  color: #0d6efd;
   background-color: rgba(81, 181, 109, 0.1);
 }
 
@@ -9626,7 +9626,7 @@ blockquote::before {
   color: #111;
 }
 .page-header .breadcrumbs a:hover {
-  color: #51B56D;
+  color: #0d6efd;
 }
 .page-header .breadcrumbs li:last-child a {
   pointer-events: none;
@@ -9750,7 +9750,7 @@ blockquote::before {
   content: "";
   height: 1px;
   width: 100%;
-  border: 1px dashed #51B56D;
+  border: 1px dashed #0d6efd;
   top: 50px;
   left: 50%;
   z-index: -1;
@@ -9759,7 +9759,7 @@ blockquote::before {
   display: none;
 }
 .loan-steps .step-item .count {
-  background-color: #51B56D;
+  background-color: #0d6efd;
 }
 @media (max-width: 991px) {
   .loan-steps .step-item:nth-child(2)::before, .loan-steps .step-item:nth-child(3)::before, .loan-steps .step-item:nth-child(6)::before {
@@ -9793,7 +9793,7 @@ blockquote::before {
   margin-bottom: 20px;
   text-align: center;
   color: #fff;
-  background-color: #51B56D;
+  background-color: #0d6efd;
 }
 
 .icon-lg {
@@ -9840,7 +9840,7 @@ textarea.form-control {
 }
 
 .form-control:focus {
-  border-color: #51B56D;
+  border-color: #0d6efd;
 }
 
 .form-group {
@@ -10052,13 +10052,13 @@ textarea.form-control {
   text-align: center;
   padding: 0;
   margin-right: 10px;
-  border: 1px solid #51B56D;
-  color: #51B56D;
+  border: 1px solid #0d6efd;
+  color: #0d6efd;
 }
 .pagination .page-item .page-link:hover {
-  background: #51B56D;
+  background: #0d6efd;
   color: #fff;
-  border-color: #51B56D;
+  border-color: #0d6efd;
   text-decoration: none;
 }
 .pagination .page-item .page-link:focus {
@@ -10068,9 +10068,9 @@ textarea.form-control {
   border-radius: 8px;
 }
 .pagination .page-item.active .page-link {
-  background: #51B56D;
+  background: #0d6efd;
   color: #fff;
-  border-color: #51B56D;
+  border-color: #0d6efd;
 }
 
 .widget {
@@ -10089,7 +10089,7 @@ textarea.form-control {
   text-decoration: none;
 }
 .widget.widget-categories li a:hover, .widget.widget-tags li a:hover {
-  background-color: #51B56D;
+  background-color: #0d6efd;
   color: #fff;
 }
 .widget.widget-tags li a {
