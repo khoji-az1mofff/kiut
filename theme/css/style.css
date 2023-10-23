@@ -9309,7 +9309,7 @@ blockquote::before {
 }
 .navigation .dropdown-item:focus,
 .navigation .dropdown-item:hover {
-  color: #0d6efd;
+  color: #0d6efd  ;
   background-color: transparent;
 }
 .navigation .nav-item {
